@@ -41,7 +41,7 @@ Then, run the RAG system as mentioned above.
 ```
 📂 indian_culture_rag
  ├── 📂 indian_culture       # Pre-scraped text files on Indian culture
- ├── scrape_wikipedia.py     # Script to scrape Wikipedia or other websites
+ ├── scraping.py     # Script to scrape Wikipedia or other websites
  ├── rag_system.py           # Main RAG system
  ├── requirements.txt        # Required dependencies
  ├── README.md               # This file
