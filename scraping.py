@@ -2,7 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-# Dictionary of Wikipedia topics and their URLs
+
 wiki_pages = {
     "General Culture & Heritage": "https://en.wikipedia.org/wiki/Culture_of_India",
     "Cultural Heritage of India": "https://en.wikipedia.org/wiki/Cultural_heritage_of_India",
@@ -65,7 +65,7 @@ wiki_pages = {
     "Upanishads": "https://en.wikipedia.org/wiki/Upanishads"
 }
 
-# Create directory if it doesn't exist
+
 os.makedirs("indian_culture", exist_ok=True)
 
 def scrape_and_save(title, url):
@@ -75,11 +75,11 @@ def scrape_and_save(title, url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, "html.parser")
         
-        # Extracting text from paragraphs
+        
         paragraphs = soup.find_all("p")
         content = "\n".join([para.get_text() for para in paragraphs if para.get_text().strip()])
         
-        # Save content to a text file
+        
         filename = f"indian_culture/{title.replace(' ', '_')}.txt"
         with open(filename, "w", encoding="utf-8") as file:
             file.write(content)
@@ -88,8 +88,8 @@ def scrape_and_save(title, url):
     else:
         print(f"Failed to retrieve {title} ({url})")
 
-# Scrape each Wikipedia page and save the content
+
 for title, url in wiki_pages.items():
     scrape_and_save(title, url)
 
-print("Scraping completed successfully! 🎉")
+print("Scraping completed successfully!")
