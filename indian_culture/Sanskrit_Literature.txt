@@ -1,0 +1,267 @@
+Sanskrit literature is a broad term for all literature composed in Sanskrit. This includes texts composed in the earliest attested descendant of the Proto-Indo-Aryan language known as Vedic Sanskrit, texts in Classical Sanskrit as well as some mixed and non-standard forms of Sanskrit.[1][a] Literature in the older language begins during the Vedic period with the composition of the Ṛg·veda between about 1500 and 1000 BCE, followed by other Vedic works right up to the time of the grammarian Pāṇini around 6th or 4th century BCE (after which Classical Sanskrit texts gradually became the norm).[3][b]
+
+Vedic Sanskrit is the language of the extensive liturgical works of the Vedic religion, while Classical Sanskrit is the language of many of the prominent texts associated with the major Indian religions, especially Hinduism and the Hindu texts, but also Buddhism, and Jainism.[c] Some Sanskrit Buddhist texts are also composed in a version of Sanskrit often called Buddhist Hybrid Sanskrit or Buddhistic Sanskrit, which contains many Middle Indic (prakritic) elements not found in other forms of Sanskrit.[6]
+
+Early works of Sanskrit literature were transmitted through an oral tradition[d] for centuries before they were written down in manuscript form.[8][9][10]
+
+While most Sanskrit texts were composed in ancient India, others were composed in Central Asia, East Asia or Southeast Asia.
+
+Sanskrit literature is vast and includes Hindu texts, religious scripture, various forms of poetry (such as epic and lyric), drama and narrative prose. It also includes substantial works covering secular and technical sciences and the arts. Some of these subjects include: law and custom, grammar, politics, economics, medicine, astrology-astronomy, arithmetic, geometry, music, dance, dramatics, magic and divination, and sexuality.[11]
+
+Literature in the Vedic and the Classical language differ in numerous respects. The Vedic literature that survives is almost entirely religious, being focused on the prayers, hymns to the gods (devas), sacrifices and other concerns of the Vedic religion.[12] The language of this archaic literature (the earliest being the Rigveda), Vedic Sanskrit, is different in many ways (and much less regular) than the "classical" Sanskrit described by later grammarians like Pāṇini.[13] This literature was transmitted orally during the Vedic period, only later was it written down.[14][15]
+
+Classical Sanskrit literature is more varied and includes the following genres: scripture (Hindu, Buddhist and Jain), epics, court poetry (kavya), lyric, drama, romance, fairytale, fables, grammar, civil and religious law (dharma), the science of politics and practical life, the science of love and sexual intercourse (kama), philosophy, medicine, astronomy, astrology and mathematics, and is largely secular in subject-matter.[16] On the other hand, the Classical Sanskrit language was much more formalized and homogeneous, partly due to the influence of Sanskrit grammarians like Pāṇini and his commentators.[17]
+
+Sanskrit was an important language for medieval Indian religious literature. Most pre-modern Hindu literature and philosophy was in Sanskrit and a significant portion of Buddhist literature was also written in either classical Sanskrit or Buddhist Hybrid Sanskrit.[18] Many of these Sanskrit Buddhist texts were the basis for later translation into the Chinese Buddhist Canon and Tibetan Canon.[19][20] Many Jain texts were also written in Sanskrit, like the  Tattvartha sutra, Bhaktamara Stotra, etc.[21][22]
+
+Classical Sanskrit also served as a common language of scholarship and elites (as opposed to local vernacular who were only understood regionally).[23]
+
+The invasions of northern India by Islamic powers in the 13th century severely damaged Indian Sanskrit scholarship and the dominance of Islamic power over India eventually contributed to the decline of this scholarly language, especially since Muslim rulers promoted Middle Eastern languages.[24][25][26] However, Sanskrit remains in use throughout India, and is used in rituals, religious practice, scholarship, art, and other Indian traditions.[27]
+
+Five chronologically distinct strata can be identified within the literature of Vedic Sanskrit:[30][31][e]
+
+The first three are commonly grouped together, as the Saṃhitās[A] comprising the four Vedas:[B] ṛk, atharvan, yajus, sāman, which together constitute the oldest texts in Sanskrit and the canonical foundation both of the Vedic religion, and the later religion known as Hinduism.[35]
+
+The Ṛg·veda, the first and oldest of the four Vedas, is the foundation for the others. The Ṛg·veda is made of 1028 hymns named sūktas, composed of verses in strictly regulated meters. These are collected into saṃhitās. There are about 10,000 of these verses that make up the Ṛg·veda. The Ṛg·vedic hymns are subdivided into 10 maṇḍalas, most of which are attributed to members of certain families. Composition of the Ṛg·vedic hymns was entirely oral, and for much of its history, the Ṛg·veda has been transmitted only orally, written down likely no sooner than in the second half of the first millennium of the Common Era.[36]
+
+The Sāmaveda is not an original composition: it's almost entirely (except 75) made of stanzas taken from the Ṛgveda and rearranged with reference to their place in the Soma sacrifice. This book is meant to be sung to certain fixed melodies, and may thus be called the book of chants, sāman. The Yajurveda like the Sāman is also largely made of verses taken from the Ṛgveda, but also contains several prose formulas. It is called the book of sacrificial prayers yajus.[37]
+
+The last of the four, the Atharvaveda, both by the internal structure of the language used and by comparison with the Ṛg·veda, is a much later work. However, the Atharvaveda represents a much earlier stage of thought of the Vedic people, being composed mainly of spells and incantations appealing to demons, and is rife with notions of witchcraft, derived from a much earlier period.[38][f]
+
+The Brāhmaṇas (a subdivision within the Vedas) concern themselves with the correct application of Vedic ritual, and the duties of the Vedic priest (hotṛ: 'pourer, worshiper, reciter') the word being derived from bráhman meaning 'prayer'. They were composed at a period in time by which the Vedic hymns had achieved the status of being ancient and sacred revelations and the language had changed sufficiently so that the priests did not fully understand the Vedic texts. The Brāhmaṇas are composed in prose, unlike the previous works, forming some of the earliest examples of prose in any Indo-European language. The Brāhmaṇas intend to explain the relation between the sacred text and ritual ceremony.[39][g]
+
+The later part of the Brāhmaṇas contain material which also discuss theology and philosophy. These works were meant to be imparted or studied in the peace and calm of the forest, hence their name the Āraṇyakas ("Of the forest") The last part of these are books of Vedic doctrine and philosophy that came to be called Upaniṣads ("sitting down beside"). The doctrines in the Vedic or Mukhya Upaniṣads (the main and most ancient Upaniṣads) were later developed into the Vedānta ("end of the Vedas") system.[40]
+
+The Vedic Sūtras were aphoristic treatises concerned either with Vedic ritual (Kalpa Vedanga) or customary law. They arrived during the later period of the Brāhmaṇas when a vast mass of ritual and customary details had been accumulated. To address this, the Sūtras are intended to provide a concise survey of Vedic knowledge through short aphoristic passages that could be easily memorized. The Sūtras forego the need to interpret the ceremony or custom, but simply provide a plain, methodical account with the utmost brevity.[h] The word sūtra, derived from the root siv-, 'to sew', [i] thus meaning 'sewn' or 'stitched together' eventually became a byword for any work of aphorisms of similar concision.[j] The sutras in many cases are so terse they cannot be understood without the help of detailed commentaries.[41]
+
+The main types of Vedic Sūtras include the Śrauta sūtras (focusing on ritual), Śulbasûtra (on altar construction), Gṛhyasūtras which focus on rites of passage and Dharmasūtras.
+
+Most ancient and medieval Hindu texts were composed in Sanskrit, either epic Sanskrit (the pre-classical language found in the two main Indian epics) or classical Sanskrit (Paninian Sanskrit).[42] In modern times, most ancient texts have been translated into other Indian languages and some in Western languages.[43] Prior to the start of the common era, the Hindu texts were composed orally, then memorized and transmitted orally, from one generation to next, for more than a millennium before they were written down into manuscripts.[44][45] This verbal tradition[k] of preserving and transmitting Hindu texts, from one generation to next, continued into the modern era.[44][45]
+
+Divisions
+
+Sama vedic
+
+Yajur vedic
+
+Atharva vedic
+
+Vaishnava puranas
+
+Shaiva puranas
+
+Shakta puranas
+
+Hindu Sanskrit texts are subdivided into two classes:
+
+The first traces of Indian epic poetry are seen in the Vedic literature, among the certain hymns of the Ṛgveda (which contain dialogues), as well as the Ākhyānas (ballads), Itihāsas ('traditional accounts of past events') and the Purāṇas found in the Vedic Brāhmaṇas.[51] These poems were originally songs of praise or heroic songs which developed into epic poems of increasing length over time. They were originally recited during important events such as during the Vedic horse sacrifice (the aśvamedha) or during a funeral.[51]
+
+Another related genre were the "songs in praise of men" (gāthā narasamsi), which focus on the glorious deeds of warriors and princes, which also developed into long epic cycles.[52] These epic poems were recited by courtly bards called sūtas, who may have been their own caste and were closely related to the warrior caste. There was also a related group of traveling singers called kusilavas.[53] Indian kings and princes seem to have kept bards in their courts which sung the praises of the king, recite poems at festivals and sometimes even recite poetry in battle to embolden the warriors.[54]
+
+While there were certainly other epic cycles, only two have survived, the Mahābhārata and the Rāmāyaṇa.[55][56]
+
+The Mahābhārata is in a sense not just a single 'epic poem', but can be seen as a whole body of literature in its own right, a massive collection of many different poetic works built around the heroic tales of the Bharata tribe.[57] Most of this literature was probably compiled between the 3rd century BCE and the 3rd century CE by numerous authors, with the oldest preserved parts not much older than around 400 BCE.[58]
+
+Already in the Ṛgveda, the Bharatas find mention as a warlike tribe, and the Brāhmaṇas also speak of Bharata, the son of Duṣyanta and Śakuntalā. The core of the Mahābhārata is a family feud in the royal house of the Kauravas (the descendants of Bharata), leading to a bloody battle at Kurukshetra. Over the centuries, an enormous mass of poetry, myths, legends, secondary tales, moral stories and more was added to the original core story. The final form of the epic is thus a massive 100,000 ślokas [l] across 18+1 books.[59][60]
+
+According to Winternitz, the Mahābhārata also shows the influence of the Brahmin class, which he argues was engaged in a project of appropriating the poetry of the bards (which was mainly a secular heroic literature) in order to infuse it with their religious theology and values.[61]
+
+The most influential part of the Mahābhārata is the Bhagavadgītā, which became a central scripture for the Vedanta school and remains widely read today.[62]
+
+Another important associated text, which acts as a kind of supplement (khila) to the Mahābhārata, is the Harivanhśa, which focuses on the figure of Krishna.[63]
+
+In contrast to the Mahābhārata, the Rāmāyaṇa consists of only 24,000 ślokas divided into seven books, and in form is more purely regular, ornate epic poetry, a form of style which is the basis of the later Kāvya tradition.[64][65] There are two parts to the story of the Rāmāyaṇa,[66] which are narrated in the five genuine books. The first revolves around the events at the court of King Daśaratha at Ayodhya with one of his wives vying for the succession of the throne to her own son Bharata in place of the one chosen by the king, Rāma. The second part of the epic is full of myth and marvel, with the banished Rāma combating giants in the forest, and slaying thousands of demons. The second part also deals with the abduction of Rāmā's wife, Sītā by king Rāvaṇa of Lankā, leading Rāma to carry out to expedition to the island to defeat the king in battle and recover his wife.[67]
+
+The Purāṇa are a large class of Hindu scriptures which cover numerous topics such as myth, legends of the Hindu gods, cosmogony, cosmology, stories of ancient kings and sages, folk tales, information about temples, medicine, astronomy, grammar and Hindu theology and philosophy.[68] Perhaps the most influential of these texts is the Bhāgavata Purāṇa, a central text for Vaishnava theology.[69][70] Other Purāṇas center on different gods, like the Shiva Purāṇa and the Devī Bhāgavata Purāṇa.
+
+The principal Upaniṣads can be considered Vedic literature since they are included within the Brahmanas and Aranyakas.[71][72] However, numerous scriptures titled "Upaniṣads" continued to be composed after the closure of the Vedas proper. Of these later "Upaniṣads" there are two categories of texts:[73][74]
+
+Sūtra style aphoristic literature continued to be composed on numerous topics, the most popular being on the different fields of Hindu philosophy.[75]
+
+The main Sūtra texts (sometimes also called kārikās) on Hindu philosophy include:[76]
+
+The various Sanskrit literature also spawned a large tradition of commentary texts, which were called Bhāṣyas, Vṛṭṭis, Ṭīkās, Vārttikas and other names.[76] These commentaries were written on numerous genres of Sanskrit texts, including on Sūtras, on Upaniṣads and on the Sanskrit epics.[77][78][79]
+
+Examples include the Yogabhāṣya on the Yoga Sūtras, Shankara's Brahmasūtrabhāṣya, the Gītābhāṣya and Śrī Bhāṣya of Ramanuja (1017–1137), Pakṣilasvāmin Vātsyāyana's Nyāya Sūtra Bhāṣya and the Matharavṛṭṭi (on the Sāṁkhyakārikā).
+
+Furthermore, over time, secondary commentaries (i.e. a commentary to a commentary) also came to be written.[80]
+
+There are a varied group of Hindu Tantric scriptures titled Tantras or Agamas. Gavin Flood argues that the earliest date for these Tantric texts is 600 CE, though most of them were probably composed after the 8th century onwards.[81]
+
+Tantric literature was very popular during the "Tantric Age" (c. 8th to the 14th century), a period of time when Tantric traditions rose to prominence and flourished throughout India. According to Flood, all Hindu traditions, Shaiva, Vaishnava, Smarta and Shakta (perhaps excepting the Srautas) became influenced by Tantric works and adopted some Tantric elements into their literature.[81]
+
+There are also numerous other types of Hindu religious works, including prose and poetry.
+
+Among prose works there are important works like the Yoga-Vāsiṣṭha (which is important in Advaita Vedanta), the Yoga-Yājñavalkya and the Devi Mahatmya (a key Shakta work).
+
+When it comes to poetry, there are numerous stotras (odes), suktas and stutis, as well as other poetic genres. Some important works of Hindu Sanskrit poetry include the Vivekacūḍāmaṇi, the Hanuman Chalisa, the Aṣṭāvakragītā, Bhaja Govindam, and the Shiva Tandava Stotra.
+
+Another group of later Sanskrit Hindu texts are those which focus on Hatha Yoga, and include the Dattātreyayogaśāstra (13th century), the Gorakṣaśataka (13th century), the Haṭhayogapradīpikā (15th century) and the Gheraṇḍasaṁhitā (17th or 18th-century).[82]
+
+Over time, Sanskrit works on the secular sciences (śāstra or vidyā) were composed on a wide variety of topics.[83] These include: grammar, poetry, lexicography, geometry, astronomy, medicine, worldly life and pleasure, philosophy, law, politics, etc.[84]
+
+The learning of these secular sciences took place by way of a guru expounding the subject orally, using works of aphorisms, the sūtra texts, which on account of their terseness would be meaningful only to those who knew how to interpret them. The bhāṣyas, the commentaries that followed the sūtras were structured in the style of student-teacher dialogue wherein a question is posed, a partial solution, the pūrvapakṣa, proposed, which is then handled, corrected and the final opinion established, the siddhānta. In time, the bhāṣyas evolved to become more like a lecture.[85]
+
+The sūtras were initially regarded as definite. This was later circumvented, in the field of grammar, by the creation of vārttikas, to correct or amend sūtras. Another form often employed was the śloka, which was a relatively simple metre, easy to write and remember. Sometimes a mix of prose and verse was used. Some of the later work, such as in law and poetics, developed a much clearer style which avoided a propensity towards obscurity that verse was prone to.[86]
+
+The study of these secular works was widespread in India. Buddhist institutions like Nalanda also focused on the study of four of these secular sciences, known as the vidyāsthānas. These are: linguistic science (sabdavidya), logical science (hetuvidya), medical science (cikitsavidya), science of fine arts and crafts (silpakarmasthanavidya). The fifth main topic studied at Buddhist universities were the spiritual sciences (adhyatmavidya).[87] These Indian Sanskrit language disciples also had an influence on Himalayan cultures, like Tibet, which not only adopted Buddhist religious literature but also these secular works.[88] The Tibetan scholar Sakya Pandita (1182–1251) was a well known scholar of Sanskrit, and promoted the study of these secular disciplines among Tibetans.[89][90] The study of Sanskrit grammars and prosody was also practiced in Sri Lanka and Southeast Asia, even when the Pali language focused Theravada school rose to prominence in those regions.[91][92]
+
+By the time of the Sūtra period, the Sanskrit language had evolved sufficiently to make increasing parts of the older literature hard to understand, and to recite correctly. This led to the emergence of several classes of works intended to resolve this matter. These works were styled like the religious Sūtras, however they were not religious per se but focused on the linguistic study of the Sanskrit language.[m] The main topics discussed in these works were grammar (vyākaraṇa), phonetics (śikṣā) and etymology (nirukta). These are traditionally part of the vedāṅga ("limbs of the Veda"), six auxiliary disciplines that developed along with the study of the Vedas.[94]
+
+One of the earliest and most important of these works is the Vedic era Prātiśākhya Sūtras, which deal with accentuation, pronunciation, prosody and related matters in order to study the phonetic changes that have taken place in Vedic words.
+
+The early grammatical works of the linguist Yāska (some time between 7th and 4th century BCE), such as his Nirukta, provides the foundation of the study of Sanskrit grammar and etymology.[95]
+
+The most influential work for the Indian Sanskrit grammatical tradition is the Aṣṭādhyāyī of Pāṇini, a book of succinct Sūtras that meticulously define the language and grammar of Sanskrit and lay the foundations of what is hereafter the normative form of Sanskrit (and thus, defines Classical Sanskrit).[96] After Pāṇini, other influential works in this field were the Vārttikakāra of Kātyāyana, the Mahābhāṣya of the grammarian Patañjali and Bhartṛhari's Vākyapadīya (a work on grammar and philosophy of language).[97]
+
+Over time, different grammatical schools developed. There was a tradition of Jain grammarians and Buddhist grammarians and a later tradition of Paninian grammarians.[98]
+
+There were numerous lexicographical works written in Sanskrit, including numerous dictionaries attributed to figures like Bana, Mayura, Murari, and Sriharsha.[99] According to Keith, "of lexica two main classes exist—synonymous, in which words are grouped by subject-matter, and homonymous (anekartha, nanartha), but the important synonymous dictionaries usually include a homonymous section."[99]
+
+One of the earliest lexicons (kośaḥ) is Amarasiṃha's Nāmalingānusāsana, better known as the Amarākośa. According to Keith, Amarasiṃha, who possibly flourished in the 6th century, was "certainly a Buddhist who knew the Mahāyāna and used Kālidāsa."[100] Other lexica are later works, including the short Abhidhānaratnamālā of the poet-grammarian Halāyudha (c. 950), Yādavaprakāsha's Vaijayantī, Hemacandra's Abhidhānacintāmaṇi and Anekarthasabdakosha of Medinikara (14th century).[101]
+
+The Vedic practice of sūtras pertaining to the correct performance of ritual was extended to other matters such as the performance of duties of all kinds, and in social, moral and legal spheres. These works came to be known as Dharmasūtras and Dharmaśāstras in contradistinction to the older gṛhyasūtras and śrautasūtras although no distinction was felt initially. Like other sūtras, this was terse prose peppered with a few ślokas or verses in triṣtubh metre to emphasize a doctrine here and there. More broadly, works in the field of civil and religious law come under the banner of dharmaśāstra.[102]
+
+Examples of such works are:
+
+The most important of all dharma literature however is the Manusmṛiti, which was composed in verse form, and was intended to apply to all human beings of all castes.[103] The Manusmṛiti deals with a wide variety of topics including marriage, daily duties, funeral rites, occupation and general rules of life, lawful and forbidden food, impurity and purification, laws on women, duties of husband and wife, inheritance and partition, and much more. There are chapters devoted to the castes, the conduct of different castes, their occupations, the matter of caste admixture, enumerating in full detail the system of social stratification. The Manu·smṛti has been dated to the couple of centuries around the turn of the Common Era.[104][105] According to recent genetic research, it has been determined that it was around the first century CE that population mixture among different groups in India, prevalent on a large scale from around 2200 BCE, ground to a halt with endogamy setting in.[106]
+
+Sanskrit literature also covers a variety of other technical and secular topics including:[107]
+
+In India, Buddhist texts were often written in classical Sanskrit as well as in Buddhist Hybrid Sanskrit (also known as "Buddhistic Sanskrit" and "Mixed Sanskrit").[113][114] While the earliest Buddhist texts were composed and transmitted in Middle Indo-Aryan Prakrits, later Indian Buddhists translated their canonical works into Sanskrit or at least partially Sanskritized their literature.[115][116][113]
+
+Beginning in the third century, Buddhist texts also began to be composed in classical Sanskrit.[115] Over time, Sanskrit became the main language of Buddhist scripture and scholasticism for certain Buddhist schools in the subcontinent, especially in North India. This was influenced by the rise of Sanskrit as a political and literary lingua franca, perhaps reflecting an increased need for elite patronage and a desire to compete with Hindu Brahmins.[117] The Buddhist use of classical Sanskrit is first seen in the work of the great poet and dramatist Aśvaghoṣa (c. 100 CE).[118] The Sarvāstivāda school is particularly known for having translated their entire canon into Sanskrit.[119]
+
+Other Indian Buddhist schools, like the Mahāsāṃghika-Lokottaravāda and Dharmaguptaka schools, also adopted Sanskrit or Sanskritized their scriptures to different degrees.[120][121] However, other Buddhist traditions, like Theravada, rejected this trend and kept their canon in Middle Indic languages like Pāli.[116]
+
+Sanskrit also became the most important language in Mahayana Buddhism and many Mahāyāna sūtras were transmitted in Sanskrit.[116] Some of the earliest and most important Mahayana sutras are the Prajñāpāramitā sūtras, many of which survive in Sanskrit manuscripts.[122][123]
+
+Indian Buddhist authors also composed Sanskrit treatises and other works on philosophy, logic-epistemology, jatakas, epic poetry and other topics. While a large number of these works only survive in Tibetan and Chinese translations, many key Buddhist Sanskrit works do survive in manuscript form and are held in numerous modern collections.[124]
+
+Sanskrit was the main scholastic language of the Indian Buddhist philosophers in the Vaibhasika, Sautrantika, Madhyamaka and Yogacara schools.[125] These include well known figures like Kumāralatā, Nāgārjuna, Āryadeva, Asaṅga, Vasubandhu, Yaśomitra, Dignāga, Sthiramati, Dharmakīrti, Bhāviveka, Candrakīrti, Śāntideva and Śāntarakṣita.[125] Some Sanskrit works which were written by Buddhists also cover secular topics, such as grammar (vyākaraṇa), lexicography (koṣa), poetry (kāvya), poetics (alaṁkāra), and medicine (Ayurveda).[126]
+
+The Gupta (c. 4th–6th centuries) and Pāla (c. 8th–12th centuries) eras saw the growth of large Buddhist institutions such as Nālandā and Vikramashila universities, where many fields of knowledge (vidyasthanas) were studied in Sanskrit, including Buddhist philosophy.[128] These universities also drew foreign students from as far away as China. One of the most famous of these was the 7th century Chinese pilgrim Xuanzang, who studied Buddhism in Sanskrit at Nalanda and took over 600 Sanskrit manuscripts back to China for his translation project.[129][130] Chinese pilgrims to India like Yijing described how in these universities, the study of Buddhist philosophy was preceded by extensive study of Sanskrit language and grammar.[131]
+
+During the Indian Tantric Age (8th to the 14th century), numerous Buddhist Tantras and other Buddhist esoteric literature was written in Sanskrit. These tantric texts often contain non-standard Sanskrit, prakritic elements and influences from regional languages like apabhramśa and Old Bengali.[132][133] These vernacular forms are often in verses (dohas) which may be found within esoteric Sanskrit texts.[134]
+
+The earliest Jain scriptures, the Jain Agamas, were composed and orally transmitted in Prakrit.[135] Later in the history of Jainism (after about the 8th century CE), Jain authors began composing literature in other languages, especially classical Sanskrit while also retaining the use of Jain Prakrit.[136]
+
+The most important Jain Sanskrit work is Umaswati's (c. sometime between the 2nd-century and 5th-century CE) Tattvarthasūtra (On the Nature of Reality). The Tattvarthasūtra is considered an authoritative work on Jain philosophy by all traditions of Jainism and thus it is widely studied.[137]
+
+Other influential Jain Sanskrit authors include: Samantabhadra, Pūjyapāda (who wrote the most important commentary to the Tattvarthasūtra, entitled Sarvārthasiddhi), Siddhasēna Divākara (c. 650 CE), Akalanka, Haribhadra-sūri (c 8th century) author of the Yogadṛṣṭisamuccaya, Hemachandra (c. 1088–1172 CE) who wrote the Yogaśāstra, and Yaśovijaya (1624–1688) a scholar of Navya-Nyāya.[138]
+
+There is a large corpus of classical Sanskrit poetry from India in a variety of genres and forms.[139] According to Siegfried Lienhard in India, the term Kāvya refers to individual poems, as well as "poetry itself, i.e., all those works that conform to artistic and literary norms."[140] Indian poetry includes epic and lyrical elements. It may be entirely in prose (gadya), entirely in verse (padya) or in a mixed form (misra).[141] Kāvya works are full of alliteration, similes, metaphors and other figures of speech.[142][143]
+
+Indians divided poetry into two main categories: poetry that can be seen (drsya, preksya, i.e. drama/theater) and poetry that can only be listened to (sravya).[144]
+
+Metrical Indian poetry can also be divided into two other categories:[141]
+
+According to Lienhard "whereas metrical poetry led a flourishing existence both as mahakavya and laghukavya, prose poems (gadya) and literature in mixed prose and verse (campu) tended to assume the major form. The only exceptions are the panegyric inscriptions (prasasti) and religious epistles (lekha) commonly found in Buddhist societies which may both be composed in the kavya style. Both are written either all in prose or in a mixture of alternately prose and verse and must therefore be counted as belonging to the minor form representing prose kavya or campu - a point that Indian theorists seem to have neglected."[145]
+
+Kāvya was employed by court poets in a movement that flourished between c. 200 BCE and 1100 CE.[n] While the Gupta era is considered by many to have seen the highest point of Indian Kāvya, many poems were composed before this period as well as after.[147] Sanskrit Kāvya also influenced the literature of Burma, Thailand, Cambodia and the Malay Archipelago.[148] The study of Sanskrit Kāvya also influenced Tibetan literature, and was promoted by Tibetan Buddhist scholars like Sakya Pandita.[87]
+
+Sanskrit Kāvya poetry also flourished outside the courts, in towns, learned schools and the homes of pandits and other elites and continues to be composed and studied today.[149] Kāvya was often recited in public gatherings, court receptions and in societies which gathered specifically for the study and enjoyment of poetry. Kavis (Kāvya poets) also competed with each other for rewards and for the support of elites and kings (who often appointed court poets).[150] Kavis were highly educated and many of them would have been pandits with knowledge of other sciences such as grammar, lexicography and other fields. Indian authors held that an important quality of these poets was said to be pratibhā, poetic imagination.[151]
+
+The beginnings of Kāvya is obscure. Lienhard traces its beginnings to "the close of the Late Vedic Period (about 550 B.C.)...as this was a time that saw the slow emergence of poetic forms with characteristics of their own, quite different both functionally and structurally from previous models."[152] The earliest Kāvya poems were short stanzas in the minor form (laghukāvya), sometimes just being one stanza poems (muktakas). Few of these early works have survived.[153]
+
+Laghukāvya mainly refers to short poems, which can be single stanza (muktaka), double stanza poems (yugmaka), and several-stanza poems (kulakas). Short poetry was also termed khandakavya and a collection of stanzas or anthology was called a kosa.[154] The earliest laghukāvyas were in prakrits, but some also began to be written in Sanskrit in time.[154]
+
+The earliest laghukāvyas where muktakas (also sometimes called gāthā), single stanzas. These were most commonly lyrical nature poems, lyrical love poems, religious poems or reflective didactic poems.[155] According to Lienhard "muktaka poetry generally paints miniature pictures and scenes, or else it carefully builds up a description of a single theme."[155]
+
+Some of the earliest of these early poems are found in the Buddhist canon, which contain two the verse anthologies: the Theragāthā (Verses of the Elder Monks) and Therīgāthā (Verses of the Elder Nuns). Only the Pali versions of these survive, but they also existed in Prakrit and Sanskrit.[156]
+
+There are also some surviving stanzas which are attributed to important figures like the grammarian Panini, the scholar Patañjali, and Vararuci, but these attributions are uncertain.[157]
+
+Some important Sanskrit poets whose collections of short poems have survived include Bhartṛhari (fl. c. 5th century CE), known for his Śatakatraya, Amaru (7th century), author of the Amaruśataka (which mainly contains erotic poetry) and Govardhana (12th century), author of the Āryāsaptaśatī.[158]
+
+There are numerous anthologies which collect short Sanskrit poetry from different authors, these works are our main source of short Sanskrit poems.[159] One widely celebrated anthology is the Subhāṣitaratnakoṣa (Anthology of Well Said Jewels) of the Buddhist monk and anthologist Vidyakara (c. 1050–1130).[160][161] Other important anthologies include:  Jalhana's Subhāṣitamuktāvalī (13th century), Sridharadasa's Saduktikarṇāmṛta (1205), Śārṅgadharapaddhati (1363) and Vallabhadeva's Subhāṣitāvalī (Chain of Beautiful Sayings, c. 16th century).[159]
+
+In between muktaka and mahākāvya there are medium length Sanskrit poems which are linked stanzas (between eight and one hundred stanzas) using one Sanskrit metre and one theme (such as the six Indian seasons, love and eros, and nature). They are variously called "series of stanzas" (samghata) or khandakavya.[162]
+
+Examples of these medium length poems include: the Ṛtusaṃhāra, the Ghatakarpara Kavyam, and the Meghadūta of Kālidāsa (the most famous of all Sanskrit poets) which popularized the sandeśa kāvya (messenger poem), Jambukavi's Candraduta (8th to 10th century), Jinasena's Parsvabhyudaya (a Jain work), Vedanta Desika's Hansasandeśa, the Kokila Sandeśa, and Rūpa Gosvāmin's Haṃsadūta (16th century).[163] Another genre of medium length poems were panegyrics like the Rājendrakarṇapūra of Sambhu.[164]
+
+Religious medium length kāvya style poems (often called stotras or stutis) were also very popular and they show some similarities with panegyrics. According to Lienhard, some of the figures which are most widely written about in medium length religious poems include: "Gautama Buddha, Durga-Kali (or Devi), Ganesa, Krsna (Govinda), Laksmi, Nrsimha, Radha, Rama, Sarasvati, Siva, Surya, the Tathagatas, the Tirthamkaras or Jinas, Vardhamana Mahavira and Visnu."[165] Only some of the Sanskrit hymns to the gods can be considered literary kāvya, since they are truly artistic and follow some of the classic kāvya rules.[166]
+
+According to Lienhard, the literary hymns of the Buddhists are the oldest of these. Aśvaghoṣa is said to have written some, but they are all lost.[167] Two Buddhist hymns of the poet Mātṛceṭa* (c. 70 to 150 CE), the Varṇārhavarṇa Stotra or Catuḥśataka and the Satapancasataka or Prasadapratibha ((Stotra) on the Splendour of Graciousness (of the Buddha)) have survived in Sanskrit. They are some the finest Buddhist stotras and were very popular in the Buddhist community in India.[167] There are also some Buddhist stotras attributed to other Buddhist masters like Nagarjuna (2nd-3rd century CE), Chandragomin (5th century) and Dignāga as well as two Buddhist stotras by King Harshavadana.[168] Some important later Buddhist stotras are Sragdharastotra (about 700) by Sarvajñamitra, Vajradatta's Lokesvara-sataka (9th century), the tantric Mañjuśrīnāma-saṃgīti and Ramacandra Kavibharati's 15th century Bhaktisataka (which is influenced by the Bhakti movement).[169]
+
+There are also many Sanskrit Jaina stotras, most of which are dedicated to the Jain Tirthankaras. They include the Bhaktacamarastotra by Manatunga (7th century), Nandisena's Ajitasantistava, the Mahavirastava by Abhayadeva (mid 11th century) and the stotras of Ramacandra (12th century).[170]
+
+There are numerous literary Hindu hymns which were written after the time of Kālidāsa. Some of the most important ones are Bāṇabhaṭṭa's Caṇḍīśataka, the Suryasataka by Mayurbhatta, numerous hymns attributed to Adi Shankara (though the majority of these were likely not composed by him), the Mahimnastava, the Shaiva Pañcāśati (14th century), Abhinavagupta's Shaiva stotras, the southern Mukundamala and Narayaniyam, the Krishnakarṇāmrutam, and the poems of Nilakantha Diksita, Jagannātha Paṇḍitarāja, Gangadevi, Ramanuja, Jayadeva, Rupa Goswami, and Bhaṭṭa Nārāyaṇa (17th century).[171]
+
+According to Lienhard, the most important feature of mahākāvya (Long poems) is that they are divided into chapters or cantos (sargas). Fully versified Mahākāvyas (called sargabandhas) are written in many different metres. Mahākāvyas may also be written fully in prose or in a mixture of verse and prose (mostly called campu).[172] Sargabandhas commonly center around a hero and also include villains. They almost never end in a tragic manner.[173] Indian epic poetry like the Rāmāyaṇa forms an important influence on Sanskrit mahakāvya literature.[174]
+
+The oldest extant mahākāvyas are those of the Buddhist poet and philosopher Aśvaghoṣa (c. 80 – c. 150 CE).[174] His Buddhacarita (Acts of the Buddha) was influential enough to be translated into both Tibetan and Chinese.[175][176][177] The Chinese pilgrim Yijing (635–713 CE) writes that the Buddhacarita was "...extensively read in all the five parts of India and in the countries of the South Sea (Sumātra, Jāva and the neighbouring islands)...it was regarded as a virtue to read it in as much as it contained the noble doctrine in a neat compact form."[178] Another mahākāvya by Aśvaghoṣa is the Saundarananda, which focuses on the conversion of Nanda, Buddha's half-brother.[179][180]
+
+Kālidāsa, called by many the Shakespeare of India,[o] is said to have been the finest master of the Sanskrit poetic style. Arthur Macdonell describes this great poets' words as having a "firmness and evenness of sound, avoiding harsh transitions and preferring gentle harmonies; the use of words in their ordinary sense and clearness of meaning; the power to convey sentiment; beauty, elevation, and the employment of metaphorical expressions".[182] Kālidāsa's greatest Kāvyas are the Raghuvaṃśa and the Kumārasambhava.[p][183]
+
+This Raghuvaṃśa (The Genealogy of Raghu) chronicles the life of Rāma alongside his forefathers and successors in 19 cantos, with the story of Rāma agreeing quite closely that in the Rāmāyaṇa. The narrative moves at a rapid pace, is packed with apt and striking similes and has much genuine poetry, while the style is simpler than what is typical of a mahakāvya. The Raghuvaṃśa is seen to meet all the criteria of a mahākāvya, such as that the central figure should be noble and clever, and triumphant, that the work should abound in rasa and bhāva, and so on. There are more than 20 commentaries of this work that are known.[184][185] The Kumārasambhava (The Birth of Kumāra) narrates the story of the courtship and wedding of Śiva and Pārvatī, and the birth of their son, Kumāra. The poem finishes with the slaying of the demon Tāraka, the very purpose of the birth of the warrior-god. The Kumārasambhava showcases the poet's rich and original imaginative powers making for abundant poetic imagery and wealth of illustration. Again, more than 20 commentaries on the Kumāra·sambhava have survived.[186][187]
+
+These two great poems are grouped by Indian tradition along with four more works into "the six great mahākāvyas". The other four greats are: Bhāravi's (6th century CE) Kirātārjunīya, Māgha's (c. 7th Century CE) Śiśupālavadha, the Bhaṭṭikāvya (also known as Rāvaṇavadha) and Śrīharṣa's (12th century CE) Naiṣadhīyacarita, which is the most extensive and difficult of the great mahākāvyas (and contains many references to Indian philosophy).[188] Over time, various commentaries where also composed on these poems, especially the Naiṣadhīyacarita.[189]
+
+Between Kālidāsa's time and the 18th century, numerous other sargabandhas were composed in the classic style, such as Mentha's Hayagrīvavadha (6th century), King Pravarasena II's Setubandha, the Sinhalese poet Kumaradasa's Janakiharana, Rājānaka Ratnākara's Haravijaya, the Nalodaya, the Buddhist Sivasvamin's Kapphinabhyudaya (9th century), and Buddhaghosa's Padyacudamani (a life of the Buddha, c. 9th century).[190] Later sargabandhas tended to be more heavily loaded with technical complexity, erudition and extensive decoration.[191] Authors of these later works include the 12th century Kashmiri Shaivas Kaviraja Rajanaka Mankha and Jayaratha, Jayadeva, author of the innovative and widely imitated Gitagovinda, Lolimbaraja's Harivilasa (mid 16th century),[192] the Shaivite Bhiksatana(kavya) of Gokula, Krsnananda's 13th century Sahrdayananda, and the numerous works of Ramapanivada.[193]
+
+After the 8th century, many sophisticated Jain mahākāvyas were written by numerous Jain poets (mainly from Gujarat), including Jatasimhanandi's Varangacarita (7th century), Kanakasena Vadiraja Suri's Yasodharacarita, and the Ksatracudamani by Vadibhasimha Odayadeva.[194] Jain authors also wrote their own versions of the Ramayana with Jain themes, such as the Padmapurana of Ravisena (678 A.D.).[195]
+
+Other later mahākāvyas are poems based on historical figures which embellish history with classic poetic themes such as Parimala's Navasāhasāṅkacarita, Bilhana's Vikramāṅkadevacarita (11th century) and Madhurāvijayam (The Conquest of Madurai, c. 14th-century) by Gangadevi, which chronicles the life a prince of the Vijayanagara Empire and his invasion and conquest of the Madurai Sultanate. Rashtraudha Kavya by Rudrakavi chronicles the history of Maratha Bagul kings of Baglana and Khandesh and details their role and position in military history involving important figures such as the Bahmanis, Mahmud Begada, Humayun, Akbar, Murad Shah,etc.[196][197][198][199]
+
+Some later poems focused on specific poetic devices, some of the most popular being paronomasia ( slesa) and ambiguous rhyme (yamaka). For example, the poems of Vasudeva (10th century), such as Yudhiṣṭhira-vijaya and Nalodaya, were all yamaka poems while the Ramapalacarita of Sandhyakara Nandin is a slesakavya.[200]
+
+One final genre is the Śāstrakāvya, a kāvya which also contains some didactic content which instructs on some ancient science or knowledge. Examples include Halayudha's Kavirahasya (a handbook for poets), Bhatta Bhima's Arjunaravaniya (which teaches grammar) and Hemacandra's Kumarapalacarita (grammar).[201]
+
+While most early mahākāvyas were all in verse, the term mahākāvya could also be applied to any long prose poem and these became more popular after the 7th century, when the great masters of prose (gadya) lived. These are Daṇḍin (author of the Daśakumāracarita) Subandhu (author of the Vāsavadattā) and Bāṇabhaṭṭa (author of Kādambari and Harshacarita).[202] Prose mahākāvyas replaced virtuosity in metre with highly complex and artistic sentences.[203] Other important writers of Sanskrit prose poems include Bhūṣaṇa bhaṭṭa, Dhanapala (the Jain author of the Tilakamañjari), and Vadibhasimha Odayadeva (author of the Gadyacintāmaṇi).[204]
+
+Campū (also known as gadyapadyamayi) is a poetic genre which contains both verse and prose. This genre was rare during the first millennium CE, but later grew in popularity, especially in South India.[205] The earliest Sanskrit example of this genre is Trivikramabhatta's Nalacampu (or Damayanticampu, c. 10th century).[205] While many other Sanskrit works also contain a mixture of verse and prose, like Āryaśūra's Jātakamālā, Lienhard notes that these are not true campūs. This is because "in true campū there is a calculated balance between prose that is as perfect as possible and stanzas in the genuine kavya style."[206]
+
+Some important campūs include Somaprabha Suri's Yaśastilakacampū (9th century, Jain), Haricandra's Jivandharacampū (Jain), the Ramayanacampū, Divakara's Amogharaghavacampu, the 17th century female poet Tirumalamba's Varadambikaparinaya, Venkatadhvarin's Visvagunadarsacampu, Jiva Gosvamin's voluminous Gopalacampu, Raghunathadasa's Muktacaritra, and the 18th century Maithili poet Krishnadutta's Shri Janraj Champu.[207]
+
+There are also numerous Sanskrit works which discuss prosody and poetics. The earliest work which discusses poetics is Bharatamuni's Nāṭyaśāstra (200 B.C. to 200 A.D.), a work which mainly deals with drama.[208] Piṅgalá (fl. 300–200 BCE) authored the Chandaḥśāstra, an early Sanskrit treatise on prosody.
+
+Gaurinath Bhattacharyya Shastri lists four main school of Indian poetics and their main figures:[209]
+
+Later influential works on poetics include Mammaṭa's (11th century) Kāvyaprakāśa, the writings on poetics by Kshemendra, Hemacandra's Kavyanusasana, Vagbhata's Vagbhatalankara, and Rupa Gosvamin's Ujjvalanilamani.[210]
+
+Outside of kāvya literature are also numerous poetic works, called subhāṣita, ("well said") which can be classified as gnomic poetry and didactic poetry.[211][212] These are mainly poems which contain some wise saying, aphoristic lesson (often ethical), popular maxim or a proverb (lokavakya).[213][214] These are thousands of Subhāṣitas on many themes.[215] The Dharmapada is one important early collection of aphorisms.[211]
+
+There are also many didactic works attributed to Cāṇakya (but actually written by numerous authors), such as the Rājanītisamuccaya, Cāṇakyanīti, Cāṇakyarājanīti, Vṛddha-Cāṇakya, and the Laghu-Cāṇakya.[216] Another important collection of gnomic sayings is the Nisataka of Bhartrhari.[217]
+
+Later examples of this genre include the Jain Amitagati's Subhasitaratnasaridoha, Kṣemendra's Cārucaryā, Darpadalana and Samayamatrka, Kusumadeva's Dṛṣṭāntaśataka, Dya Dviveda's Nitimañjari (1494), and Vallabhadeva's Subhāṣitāvalī (15th century).[218][219] There are also numerous anthologies of subhāṣita, such as the Cātakāṣṭaka.[220]
+
+Indian classical drama (dṛśya, nātaka) was also mainly written in Sanskrit and there are many examples of this Sanskrit literary genre. Bharata's Nāṭyaśāstra (3rd century CE) is the earliest work which discusses Sanskrit dramaturgy.[221] Sanskrit drama focuses on the sentiments and on heroic characters. Classically, the endings are happy, never tragic.[222] References to Sanskrit drama are found throughout ancient Sanskrit texts, including the great epics.[223]
+
+Some of the earliest Sanskrit dramas are those of Aśvaghoṣa (only a fragment of his Śāriputraprakaraṇa survives) and the many plays of Bhāsa (c.1st century BCE), most of which are based on the two great epics (Mahabharata and Ramayana).[224][225] Kalidasa is widely considered to be the greatest Sanskrit playwright, hailed for his linguistic mastery and economy of style.[226] He wrote three plays: Vikramōrvaśīyam,[E] Mālavikāgnimitram,[F] Abhijñānaśākuntalam.[G]
+
+Other important plays include the Mṛcchakaṭika (The Little Clay Cart, 5th century) and the Mudrārākṣasa.
+
+Harṣa, a 7th-century Indian emperor, was also known as a great playwright with a simple and delicate style.[227] His Ratnavali, Nagananda, and Priyadarsika are well known Sanskrit dramas.[228]
+
+The Mattavilāsaprahasana (A Farce of Drunken Sport) is a short one-act Sanskrit play. It is one of the two great one act plays written by Pallava King Mahendravarman I (571– 630CE) in the beginning of the seventh century in Tamil Nadu.[229]
+
+Bhavabhuti (8th century) is one of the great playwrights after Kalidasa.[230] Other major Sanskrit playwrights include Visakhadatta, Bhaṭṭa Nārāyaṇa, Murari, Rajasekhara, Kshemisvara, Damodaramishra, and Krishnamishra.[231]
+
+Later Sanskrit dramaturgical texts also continued to be written in the second millennium, such as the Shilparatna which discusses dance and drama.
+
+There are various classical Sanskrit collections of fables one of the most influential of which is the early Pañcatantra, a work that was widely imitated.[232] Other works include the Hitopadeśa and Srivara's Kathakautuka.[233] Buddhist Jatakas (tales of the Buddha's past lives) is a similar genre and includes the Divyāvadāna, Āryaśūra's Jātakamālā (a collection of Buddhist fables), and Ksemendra's various works like the Avadānakalpalatā.
+
+Folk tale (or fairy tale) collections include the Vetala Pañcaviṃśati, Siṃhāsana Dvātriṃśikā, and the Suktasaptati.[234] There is also Somadeva's Kathāsaritsāgara (Ocean of the Streams of Stories).
+
+There are also poetic historical chronicles like the Rajatarangini of Kalhana, Rashtraudha Kavya of Rudrakavi, Shivbharata and Paramanandkavya of Paramananda, Rajaramcharitra of Keshavbhatt, Sri Janraj Champu of Krishna Dutta.[235]
+
+Hemacandra's (1088-1172) Trisastisalakapurusacaritra is one example of Jain didactic narrative in Sanskrit.[236]
+
+There are also abridged retellings of more ancient lost texts, such as Budhasvāmin's Bṛhatkathāślokasaṃgraha.[237]
+
+Literature in Sanskrit continues to be produced. These works, however, have a very small readership. In the introduction to Ṣoḍaśī: An Anthology of Contemporary Sanskrit Poets (1992), Radhavallabh Tripathi writes:[238]
+
+Sanskrit is known for its classical literature, even though the creative activity in this language has continued without pause from the medieval age till today. [...] Consequently, contemporary Sanskrit writing suffers from a prevailing negligence.
+Most current Sanskrit poets are employed as teachers, either pandits in pāṭhaśālas or university professors.[238] However, Tripathi also points out the abundance of contemporary Sanskrit literature:
+
+On the other hand, the number of authors who appear to be very enthusiastic about writing in Sanskrit during these days is not negligible. [...] Dr. Ramji Upadhyaya in his treatise on modern Sanskrit drama has discussed more than 400 Sanskrit plays written and published during the nineteenth and twentieth centuries. In a thesis dealing with Sanskrit mahākāvyas written in a single decade, 1961–1970, the researcher has noted 52 Sanskrit mahākāvyas (epic poems) produced in that very decade.
+Similarly, Prajapati (2005), in Post-Independence Sanskrit Literature: A Critical Survey, estimates that more than 3000 Sanskrit works were composed in the period after Indian Independence (i.e., since 1947) alone. Further, much of this work is judged as being of high quality, both in comparison to classical Sanskrit literature, and to modern literature in other Indian languages.[239][240]
+
+Since 1967, the Sahitya Akademi, India's national academy of letters, has had an award for the best creative work written that year in Sanskrit. In 2009, Satyavrat Shastri became the first Sanskrit author to win the Jnanpith Award, India's highest literary award.[241]
+Vidyadhar Shastri  wrote two epic poems (Mahakavya), seven shorter poems, three plays and three songs of praise (stavana kavya, he received the Vidyavachaspati award in 1962. Some other modern Sanskrit composers include Abhiraj Rajendra Mishra (known as Triveṇī Kavi, composer of short stories and several other genres of Sanskrit literature), Jagadguru Rambhadracharya (known as Kavikularatna, composer of two epics, several minor works and commentaries on Prasthānatrayī).
+
+Another great Sanskrit epic that remained largely unrecognised till lately is "Dhruv Charitra" written by Pandit Surya Dev Mishra in 1946. He won laurels of appreciation by renowned Hindi and Sanskrit critics like Hazari Prasad Dwiedi, Ayodhya Singh Upadhyay "Hariaudh", Suryakant tripathi "Nirala", Laldhar Tripathi "Pravasi".[242]
+
+Contrary to popular belief, there is an astonishing Sanskrit writing is qualitatively of such high order that it can easily be treated on par with the best of Classical Sanskrit literature, It can also easily compete with the writings in other Indian languages.
+The latter half of the nineteenth century marks the beginning of a new era in Sanskrit literature. Many of the modern Sanskrit writings are qualitatively of such high order that they can easily be treated at par with the best of classical Sanskrit works, and they can also be judged in contrast to the contemporary literature in other languages.
